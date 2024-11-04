@@ -1,6 +1,7 @@
 # multi-select-dropdown
 multi-select-dropdown-search-clearall-selectall-features
 
+Termianl requirement:  npm install react-select
 
 ✔ Execution Flow Summary
 1) Animated Components Setup::   makeAnimated is used for the Select component animation.
